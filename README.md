@@ -1,4 +1,4 @@
-# Umesh Joshi Portfolio
+# My Portfolio
 
 A personal portfolio website built with React, showcasing my skills, experience, and projects.
 
@@ -11,41 +11,40 @@ A personal portfolio website built with React, showcasing my skills, experience,
 
 # Technologies Used
 
-React (Create React App)
-JavaScript (ES6+)
-CSS ( CSS-in-JS with styled-components)
-HTML5
-Netlify (for deployment and hosting)
-Project Structure
+<li>React (Create React App)</li>
+<li>JavaScript (ES6+)</li>
+<li>CSS ( CSS-in-JS with styled-components)</li>
+<li>HTML5</li>
+<li>Netlify (for deployment and hosting)</li>
 
-src/ contains the React application code
-components/ contains reusable React components
-containers/ contains higher-order components that wrap around smaller components
-images/ contains static images used throughout the site
-styles/ contains global CSS styles and variables
-Getting Started
+# Project Structure
 
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
-Install dependencies: npm install or yarn install
-Start the development server: npm start or yarn start
-Open the app in your browser: http://localhost:3000
-Deployment
+<li>src/ contains the React application code</li>
+<li>components/ contains reusable React components</li>
+<li>containers/ contains higher-order components that wrap around smaller components</li>
+<li>images/ contains static images used throughout the site</li>
+<li>styles/ contains global CSS styles and variables</li>
+
+# Getting Started
+<ol>
+<li>Clone the repository: git clone https://github.com/your-username/your-repo-name.git</li>
+<li>Install dependencies: npm install or yarn install</li>
+<li>Start the development server: npm start or yarn start</li>
+<li>Open the app in your browser: http://localhost:3000</li>
+</ol>
+ 
+# Deployment
 
 This app is deployed to Netlify, which provides automatic code updates and hosting. To deploy to your own Netlify site, follow these steps:
+<ol>
+<li>Create a new Netlify site and link your GitHub repository</li>
+<li>Set up automatic code updates and deployment in your Netlify settings</li>
+</ol>
 
-Create a new Netlify site and link your GitHub repository
-Set up automatic code updates and deployment in your Netlify settings
-License
+# License
 
 This project is licensed under the MIT License. Feel free to modify and use the code as you see fit.
 
 I hope this helps! Let me know if you'd like me to add anything else.
 
-1.31
-rtt
-36
-tps
-385
-toks
-11.91
-s
+

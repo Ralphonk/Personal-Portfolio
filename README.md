@@ -2,6 +2,11 @@
 
 A personal portfolio website built with React, showcasing my skills, experience, and projects.
 
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/399cd765-16aa-46b4-b135-d9e529f86003)
+
+
  # Features
 
 <li>Responsive design for optimal viewing on desktop, tablet, and mobile devices</li>

@@ -21,7 +21,7 @@ export const Projects = () => {
             title: "Coca Cola 3D Rotation Advertisement Design",
             description: "Design & Development",
             imgUrl: CocaCola,
-            aboutProject: "This project was a 3D rotation advertisement design for Coca Cola. It was designed to showcase the brand's new product in a unique and eye-catching way.",
+            aboutProject: "This project was a 3D rotation advertisement design for Coca Cola. It was designed to showcase the brand's new product in a unique and eye-catching way. (Please press f11 or fn+f11 to full screen for a bettter view of the website without any distractions)",
             projectLink: "https://ralphonk.github.io/Coca-Cola-3D-Rotation/",
 
         },

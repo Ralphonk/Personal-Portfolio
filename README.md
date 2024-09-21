@@ -2,13 +2,14 @@
 
 A personal portfolio website built with React, showcasing my skills, experience, and projects.
 
-Features
+ # Features
 
-Responsive design for optimal viewing on desktop, tablet, and mobile devices
-Easy-to-navigate interface with clear sections for About, Skills, Experience, and Projects
-Detailed project descriptions with images, links, and technologies used
-Contact form for getting in touch
-Technologies Used
+<li>Responsive design for optimal viewing on desktop, tablet, and mobile devices</li>
+<li>Easy-to-navigate interface with clear sections for About, Skills, Experience, and Projects</li>
+<li>Detailed project descriptions with images, links, and technologies used</li>
+<li>Contact form for getting in touch</li>
+
+# Technologies Used
 
 React (Create React App)
 JavaScript (ES6+)
